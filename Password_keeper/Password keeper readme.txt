@@ -1,0 +1,1 @@
+Program Password Keeper jest aplikacją okienkową napisaną w języku python z użyciem biblioteki Tkintern, pozwalającą przechowywać loginy i hasła do stron internetowych i aplikacji wymagających zalogowania. Zaszyfrowane hasła przechowywane są w pliku tekstowym passwords.txt którego obecność wymagana jest do prawidłowego funkcjonowania programu.

@@ -1,2 +1,2 @@
 a, b, c
-a,a;a,b;b,c;a,c
+a;a, b;b, c;c

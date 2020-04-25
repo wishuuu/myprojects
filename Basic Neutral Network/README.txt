@@ -1,0 +1,1 @@
+Projekt jest małą siecią neuronową, która losuje 2 zestawy liczb o określonej w kodzie liczbie elementów i zakresach, a następnie uczy sieć neuronową przypisywania danych liczb do zestawu.
